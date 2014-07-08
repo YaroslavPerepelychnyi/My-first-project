@@ -81,7 +81,10 @@ header{
 	width:150px;
 }
 
-
+#Work_Experience span {
+	font-weight:bold;
+	font-size:120%
+}
 
 a {
 	text-decoration: none;
